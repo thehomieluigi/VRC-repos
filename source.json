@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://thehomieluigi.github.io/VRC-repos/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/thehomieluigi/VRC-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
